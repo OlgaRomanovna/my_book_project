@@ -1,7 +1,5 @@
 import allure
 from selene import browser, have, be
-from helpers import resources
-from helpers.user import olga
 
 
 class RegistrationPage:
