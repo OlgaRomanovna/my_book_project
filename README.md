@@ -32,7 +32,7 @@
 
 ----
 ### Запуск автотестов выполняется на сервере Jenkins
-> <a target="_blank" href="https://jenkins.autotests.cloud/job/OstrovokSiteAutoTest/">Ссылка на проект в Jenkins</a>
+> <a target="_blank" href="https://jenkins.autotests.cloud/job/oromanovna_lesson_12/">Ссылка на проект в Jenkins</a>
 
 #### Параметры сборки
 
@@ -42,7 +42,7 @@
 
 #### Для запуска автотестов в Jenkins
 
-1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/OstrovokSiteAutoTest/">проект</a>
+1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/oromanovna_lesson_12/">проект</a>
 2. Выбрать пункт `Build with Parameters`
 3. Выбрать окружение в выпадающем списке
 4. Указать комментарий
