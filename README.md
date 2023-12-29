@@ -84,7 +84,7 @@
 
 ----
 ### Оповещение о результатах прогона тестов в Telegram
-<img src="resources/image/telegram.png" width="200">
+<img src="resources/image/telegram.png" width="400">
 
 ----
 ### Пример видео прохождения автотеста
