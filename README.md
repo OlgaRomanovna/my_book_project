@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-<img src="resources/icons/python-original.svg" width="50"> <img src="resources/icons/pytest.png" width="50"> <img src="recources/icons/intellij_pycharm.png" width="50"> <img src="recources/icons/selene.png" width="50"> <img src="recources/icons/selenium.png" width="50"> <img src="recources/icons/selenoid.png" width="50"> <img src="recources/icons/jenkins.png" width="50"> <img src="recources/icons/allure_report.png" width="50"> <img src="recources/icons/allure_testops.png" width="50"> <img src="recources/icons/tg.png" width="50"> <img src="recources/icons/jira.png" width="50">
+<img src="resources/icons/python-original.svg" width="50"> <img src="resources/icons/pytest.png" width="50"> <img src="resources/icons/intellij_pycharm.png" width="50"> <img src="resources/icons/selene.png" width="50"> <img src="resources/icons/selenium.png" width="50"> <img src="resources/icons/selenoid.png" width="50"> <img src="resources/icons/jenkins.png" width="50"> <img src="resources/icons/allure_report.png" width="50"> <img src="resources/icons/allure_testops.png" width="50"> <img src="resources/icons/tg.png" width="50"> <img src="resources/icons/jira.png" width="50">
 
 ----
 ### Запуск автотестов выполняется на сервере Jenkins
