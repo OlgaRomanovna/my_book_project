@@ -1,5 +1,5 @@
 import allure
-from helpers.user import olga
+from my_book_project.test_data.user import olga
 from my_book_project.pages.authorization_page import AuthorizationPage
 from my_book_project.pages.main_page import MainPage
 

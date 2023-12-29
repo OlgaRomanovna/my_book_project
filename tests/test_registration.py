@@ -1,5 +1,5 @@
 import allure
-from helpers import resources
+from helpers import create_user
 from my_book_project.pages.main_page import MainPage
 from my_book_project.pages.registration_page import RegistrationPage
 
