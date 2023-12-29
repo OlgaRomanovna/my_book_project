@@ -2,7 +2,7 @@
 
 > <a target="_blank" href="https://mybook.ru/">Ссылка на сайт</a>
 
-![This is an image](design/image/mainpage.png)
+![This is an image](resources/image/mainpage.png)
 
 #### Список проверок, реализованных в автотестах:
 - [x] Регистрация пользователя
@@ -49,18 +49,18 @@
 5. Нажать кнопку `Build`
 6. Результат запуска сборки можно посмотреть в отчёте Allure
 
-![This is an image](design/image/jenkins_build.png)
+![This is an image](resources/image/jenkins_build.png)
 
 ----
 ### Allure отчет
 
 
 #### Общие результаты
-![This is an image](design/image/allure_report_overview.png)
+![This is an image](resources/image/allure_report_overview.png)
 #### Список тест кейсов
-![This is an image](design/image/allure_report.png)
+![This is an image](resources/image/allure_report.png)
 #### Пример отчета о прохождении теста
-![This is an image](design/image/example_test_allure.png)
+![This is an image](resources/image/example_test_allure.png)
 
 ----
 
@@ -68,19 +68,19 @@
 > <a target="_blank" href="https://allure.autotests.cloud/project/3898/dashboards">Ссылка на проект в AllureTestOps</a> (запрос доступа `admin@qa.guru`)
 
 #### Общий список всех кейсов, имеющихся в системе (без разделения по тест-планам и виду выполнения тестирования)
-![This is an image](design/image/allure_TestOps_test_cases.png)
+![This is an image](resources/image/allure_TestOps_test_cases.png)
 
 #### Пример одного из автотестов
-![This is an image](design/image/example_autotests_allure_TestOps.png)
+![This is an image](resources/image/example_autotests_allure_TestOps.png)
 
 #### Пример dashboard с общими результатами тестирования
-![This is an image](design/image/allure_TestOps_dashboard.png)
+![This is an image](resources/image/allure_TestOps_dashboard.png)
 
 ----
 ### Интеграция с Jira
 > <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1016">Ссылка на проект в Jira</a>
 
-![This is an image](design/image/jira.png)
+![This is an image](resources/image/jira.png)
 
 ----
 ### Оповещение о результатах прогона тестов в Telegram
@@ -88,4 +88,4 @@
 
 ----
 ### Пример видео прохождения автотеста
-![autotest_gif](design/image/autotest.gif)
+![autotest_gif](resources/image/autotest.gif)
