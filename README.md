@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-<img src="design/icons/python-original.svg" width="50"> <img src="design/icons/pytest.png" width="50"> <img src="design/icons/intellij_pycharm.png" width="50"> <img src="design/icons/selene.png" width="50"> <img src="design/icons/selenium.png" width="50"> <img src="design/icons/selenoid.png" width="50"> <img src="design/icons/jenkins.png" width="50"> <img src="design/icons/allure_report.png" width="50"> <img src="design/icons/allure_testops.png" width="50"> <img src="design/icons/tg.png" width="50"> <img src="design/icons/jira.png" width="50">
+<img src="resources/icons/python-original.svg" width="50"> <img src="resources/icons/pytest.png" width="50"> <img src="resources/icons/intellij_pycharm.png" width="50"> <img src="resources/icons/selene.png" width="50"> <img src="resources/icons/selenium.png" width="50"> <img src="resources/icons/selenoid.png" width="50"> <img src="resources/icons/jenkins.png" width="50"> <img src="resources/icons/allure_report.png" width="50"> <img src="resources/icons/allure_testops.png" width="50"> <img src="resources/icons/tg.png" width="50"> <img src="resources/icons/jira.png" width="50">
 
 ----
 ### Запуск автотестов выполняется на сервере Jenkins
@@ -84,7 +84,7 @@
 
 ----
 ### Оповещение о результатах прогона тестов в Telegram
-![This is an image]()
+<img src="resources/image/telegram.png" width="500">
 
 ----
 ### Пример видео прохождения автотеста
