@@ -1,6 +1,6 @@
 <h1> Проект по тестированию веб-сервиса для чтения "My Book"</h1>
 
-<a> target="_blank" href="https://mybook.ru/">Ссылка на сайт</a>
+<a target="_blank" href="https://mybook.ru/">Ссылка на сайт</a>
 
 ![This is an image](resources/image/mainpage.png)
 
